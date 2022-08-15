@@ -6,12 +6,12 @@ Npm Version: 8.3.1;
 MongoDb must be installed on your device to run server on localhost.
 
 To install server you can run in termminal:
-`cd server`,
-`npm install`
+*`cd server`
+*`npm install`
 
 To install client side, you can run in terminal:
-`cd client`,
-`cd npm install`
+*`cd client`
+*`cd npm install`
 
 ## Client
 
