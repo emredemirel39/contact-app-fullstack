@@ -1,4 +1,4 @@
-# fitness-club-app-fullstack
+# Contact App
 
 Node Version: v16.14.0;
 Npm Version: 8.3.1;
@@ -13,9 +13,9 @@ To install server you can run in termminal:
 
 To install client side, you can run in terminal:
 
-###`cd client`
+### `cd client`
 
-###`cd npm install`
+### `cd npm install`
 
 ## Client
 
@@ -37,7 +37,7 @@ In the server folder, you can run:
 
 ### `npm run server`
 
-Runs the server in  [http://localhost:3001](http://localhost:3001)
+Runs the server in  [http://localhost:6060](http://localhost:6060)
 
 ## About Application
 
