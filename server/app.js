@@ -10,7 +10,7 @@ app.use(cors());
 app.options('http://localhost:6060/', cors())
 
 // database connection
-const url = 'mongodb://localhost/';
+const url = 'mongodb+srv://user:user@cluster0.rknq67m.mongodb.net/?retryWrites=true&w=majority';
 mongoose.connect(url);
 const db = mongoose.connection;
 db.on('error', () => console.error(error));
